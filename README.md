@@ -1,17 +1,35 @@
+### Projeto CodeConnect, Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX. 🧑‍💻
 
-![Capa do repositório do curso, contendo no canto superior esquerdo o símbolo do github com o texto /alura-cursos, e no direito o logo da alura. Abaixo possuímos o título React: componentes e JSX com o subtítulo aprendendo a construir componentes reutilizáveis. Por fim, no canto inferior direito, há o logo da escola de front-end.](https://imgur.com/n21Gypa.png)
+#### Fique a vontade para navegar, em caso de dúvidas estou disponível 24/7 para você 🫵
 
-# CodeConnect
+<div>
+    <img src='./img/1.jpg'/>
 
-Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX.
+</div>
 
-## 🔨 Funcionalidades do projeto
+#### Link para o Site 🎯
 
-Nesse curso será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
+<div>
+    <a href="https://code-connect-tawny.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
 
-## ✔️ Técnicas e tecnologias utilizadas
+#### ⬇️Pode me chamar no⬇️
 
-As técnicas e tecnologias utilizadas pra isso são:
+<div> 
+    <a href="https://www.linkedin.com/in/vinicius-ribeiro-4690741ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5511943232223" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="www.youtube.com/@Devdebotas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="vinii.viniciusribeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <h2>vinii.viniciusribeiro@gmail.com</h2>
+</div>
+
+#### Tecnologias utilizadas neste projeto 🤖
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VScode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#)
 
 - `React`: Biblioteca JavaScript para construção de interfaces de usuário.
 - `React-DOM`: Pacote que permite a integração do React com a árvore de elementos do DOM.
@@ -22,20 +40,42 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
-## 📁 Acesso ao projeto
+#### Conhecimentos Adquiridos durante o processo 🤓
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
+- Conectar as bibliotecas React e React DOM em um projeto via CDN;
 
-## 🎨 Figma
+- Construir componentes com funções;
 
-Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
+- Desenvolver com a sintaxe de JSX;
 
-## 🛠️ Abrir e rodar o projeto
+- Utilizar a ferramenta Babel para compilar JSX em JavaScript válido;
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela inicial da aplicação, vá em File / Arquivos e:
+- Utilizar a biblioteca React-DOM;
 
-- **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+- Compreender os métodos createRoot e render;
 
-Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
+- Renderizar componentes;
+
+- Exibir componentes dentro de outros componentes;
+
+- Transformar trechos de códigos já construídos em componentes;
+
+- Dinamizar componentes via propriedades, chamadas de props;
+
+- Flexibilizar o conteúdo impresso dentro dos componentes via props children;
+
+- Armazenar o valor inserido em campo de digitação;
+
+- Utilizar estados para rastrear e atualizar dinamicamente os dados nos campos de entrada;
+
+- Aplicar o hook useState;
+
+- Manipular eventos de alteração de campo de digitação e envio de formulário;
+
+- Construir um checkbox customizado;
+
+- Compreender a metodologia utilizada para a nomenclatura de classes para se localizar mais facilmente nos estilos CSS;
+
+- Dinamizar estilos dos componentes ao enviar classes via props;
+
+- Construir templates strings para dinamizar urls e textos alternativos.
